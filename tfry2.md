@@ -1,0 +1,1 @@
+Hello, my name is Tanner Fry and I am currently working on my MS in Computer Engineering. I have been working as a software developer for a chemical engineering research team at UTK for a little over 2 years. I am interested in learning more about software engineering, and look forward to working with everyone in the class this semester!

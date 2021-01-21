@@ -1,0 +1,1 @@
+I am Dani Shekoury, a undergrad at UTK majoring in computer science. I enjoy coding and seeing the result of my work. I have some experience with c, c++, and python. I hope to expand my knowledge of computer science.

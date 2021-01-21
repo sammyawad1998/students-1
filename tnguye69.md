@@ -1,0 +1,1 @@
+I am Tyler Nguyen and this is my last semester at UTK. I am interested in contemporary technology and am looking forward to learn more in this class. I hope I can remember these concepts for use in future projects.

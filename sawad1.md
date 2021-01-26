@@ -1,0 +1,1 @@
+Hello, my name is Sammy Awad. I am a senior in computer science at UTK. I went to Pellissippi community college though and got an associate's degree. I am passionate about sports like soccer and basketball. I expect from this class the tools to be sufficient in the world of software engineering. 

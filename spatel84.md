@@ -1,0 +1,1 @@
+Hello, my name is Shivam Patel. I am a second semester graduate student working on my M.S. I received my B.S. from UT in May 2020. I took Fundamentals of Digital Archaeology, so I think this course will also be interesting.

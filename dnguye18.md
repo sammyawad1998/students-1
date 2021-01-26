@@ -1,0 +1,1 @@
+Hello! My name is David Nguyen and I am currently a Senior majoring in Computer Science. As a hobby, I like to dabble in some photography and videography. However, I do enjoy making fun little projects with my code so that I can show people some fun things I have created.

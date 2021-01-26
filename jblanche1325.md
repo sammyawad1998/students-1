@@ -1,0 +1,1 @@
+My name is Ryan Blanchette. I am the data analyst for TCE and a Ph.D. student in Industrial Engineering. I am a data science/analyst by trade, but one of my biggest skill gaps is in software engineering, which is why I am taking this course.
